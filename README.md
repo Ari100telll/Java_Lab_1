@@ -1,1 +1,1 @@
-# Java_Lab_1
+# JavaLabs
